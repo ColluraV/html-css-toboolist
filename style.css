@@ -6,8 +6,8 @@
 
 #Main_title{
     display: inline-block;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 300%;
 }
 
 /*.separatore-top{
@@ -54,9 +54,9 @@
     border-top: 10px solid rgb(241, 241, 241);
     border-left: 200px solid rgb(241, 241, 241);
     border-right: 200px solid rgb(241, 241, 241);
+    border-bottom: 5px  solid rgb(241, 241, 241);
     padding-left: 50px;
     line-height: 50px;
-    border-radius: 25px;
 }
 
 .b-task{
