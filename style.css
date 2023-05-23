@@ -54,15 +54,15 @@
 }
 
 .bottoni{
-    display: block;
+    border-top: 60px solid rgb(241, 241, 241);
     padding-left: 50px;
-    line-height: 50px;
+    line-height: 55px;
 }
 
 .bottoni, #Newsletter{
     background-color: rgb(255, 255, 255);
     background-color: white;
-    border-top: 3px solid rgb(241, 241, 241);
+
     border-left: 28vh solid rgb(241, 241, 241);
     border-right: 28vh solid rgb(241, 241, 241);
 }
@@ -83,7 +83,7 @@
 .b-task , .b-section{
     border-radius: 4px;
     width: 90px;
-    height: 25px;
+    height: 35px;
 }
 
 body{
@@ -94,11 +94,11 @@ body{
 }
 .Nome-lista{
     font-weight: bolder;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 #Newsletter{
-    
+    border-top: 3px solid rgb(241, 241, 241);    
     padding-left: 25px;
     display: block;
 }
@@ -115,17 +115,17 @@ body{
 }
 
 li{
-    padding-top: 8px;
+    padding-top: 4px;
     font-weight: 500;
     line-height: 55px;
-    font-size: 30px;
+    font-size: 25px;
     padding-left: 20px;
     vertical-align: middle; 
     margin-left: 38px;
 }
 
 ul {  
-    margin-top: 30px;
+    margin-top: 25px;
     list-style-image: url(img/positivo.jpg) ;
 }
 
@@ -138,22 +138,22 @@ ul {
     background-color: #45ABE9;
 }
 .S2{
-    border-color: #45ABE9;
-    background-color: #45ABE9;
+    border-color: #9C72E4;
+    background-color: #9C72E4;
 }
 .S3{
-    border-color: #45ABE9;
-    background-color: #45ABE9;
+    border-color:#64C0A9;
+    background-color:#64C0A9;
 }
 .S4{
-    border-color: #45ABE9;
-    background-color: #45ABE9;
+    border-color: #F29E33;
+    background-color: #F29E33;
 }
 .S5{
-    border-color: #45ABE9;
-    background-color: #45ABE9;
+    border-color: #D763A1;
+    background-color: #D763A1;
 }
 .S6{
-    border-color: #45ABE9;
-    background-color: #45ABE9;
+    border-color: #B0C925;
+    background-color: #B0C925;
 }
