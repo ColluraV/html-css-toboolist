@@ -3,7 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
-.separatore{
-    height: 200px;
-    background-color: rgb(245, 0, 0);
+
+#Main{
+    display: inline-block;
+    height: 50px;
+
 }
+
+.separatore-top{
+    height: 100px;
+    background-color: rgb(123, 123, 123);
+    border: solid 1px rgb(123, 123, 123);
+    border-radius: 10px 10px 0 0;
+}
+.separatore-bot{
+    height: 100px;
+    background-color: rgb(123, 123, 123);
+    border: solid 1px rgb(123, 123, 123);
+    border-radius: 0 0 10px 10px;
+}
+
