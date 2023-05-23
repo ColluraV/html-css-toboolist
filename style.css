@@ -98,12 +98,6 @@ body{
     font-size: 35px;
 }
 
-li{
-    font-weight: 500;
-    line-height: 35px;
-    font-size: 20px;
-   
-}
 
 #Newsletter{
     
@@ -116,5 +110,19 @@ li{
     border-right: 33vh solid rgb(241, 241, 241);
     border-bottom: 5px  solid rgb(241, 241, 241);
 }
+li{
 
+    font-weight: 500;
+    line-height: 55px;
+    font-size: 30px;
+    padding-left: 20px;
+    vertical-align: middle ;
+  
+}
 
+ul {  
+    margin-top: 30px;
+    list-style-image: url(img/positivo.jpg) ;
+
+    
+}
