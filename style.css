@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.separatore{
+    height: 200px;
+    background-color: rgb(245, 0, 0);
+}
