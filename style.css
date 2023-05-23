@@ -103,6 +103,17 @@ body{
     display: block;
 }
 
+.S1, .S2, .S3, .S4, .S5, .S6{
+    border: solid 1px;
+    border-radius: 7px;
+    font-size: medium;
+    display: inline-block;
+    line-height: 31px;
+    padding-left: 2px;
+    padding-right: 2px;
+    color:white;
+}
+
 li{
     padding-top: 8px;
     font-weight: 500;
@@ -110,6 +121,7 @@ li{
     font-size: 30px;
     padding-left: 20px;
     vertical-align: middle; 
+    margin-left: 38px;
 }
 
 ul {  
@@ -120,4 +132,28 @@ ul {
 
 .negativo{
     list-style-image: url(img/negativo.jpg) ;
+}
+S1{
+    border-color: #45ABE9;
+    background-color: #45ABE9;
+}
+S2{
+    border-color: #45ABE9;
+    background-color: #45ABE9;
+}
+S3{
+    border-color: #45ABE9;
+    background-color: #45ABE9;
+}
+S4{
+    border-color: #45ABE9;
+    background-color: #45ABE9;
+}
+S5{
+    border-color: #45ABE9;
+    background-color: #45ABE9;
+}
+S6{
+    border-color: #45ABE9;
+    background-color: #45ABE9;
 }
